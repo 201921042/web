@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Seungho" # TODO: 이름 추가
   subtitle: "Developer"
-  description: "Hi" # TODO: 소개 추가
+  description: "Hi i'm seungho jeon" # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -35,8 +35,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com" # TODO: linkedin 추가
   image:
-    x: "img/who-am-i/user-picture.png" # TODO: 프로필 이미지 주소 변경
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/https://th.bing.com/th/id/OIP.vBhVGSwSrpX0Q6S21zjCpQHaE6?rs=1&pid=ImgDetMain" # TODO: 프로필 이미지 주소 변경
+    _2x: "img/who-am-i/https://th.bing.com/th/id/OIP.vBhVGSwSrpX0Q6S21zjCpQHaE6?rs=1&pid=ImgDetMain"
 
 # education
 education:
